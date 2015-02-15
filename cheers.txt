@@ -1,0 +1,3 @@
+python script test 1 random 1
+python script test 2 random 2
+python script test 3 random 3
